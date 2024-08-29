@@ -11,5 +11,3 @@ This repository contains all the National Italian TV channels, Pluto tv, Rakuten
 # How to use the Light-Iptv List
 
 Copy the .m3u url from above and paste it in an appropriate app that supports .m3u files, as an example: VLC Media player, Kodi
-
-# Enjoy your renewed Light-Iptv list!
