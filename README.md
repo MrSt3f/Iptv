@@ -1,6 +1,6 @@
 # Light-Iptv
 
-This repository contains all the National Italian TV channels, Pluto tv, Rakuten TV, and a bunch of other films in two m3u files to be used with any program that supports opening playlist files. The links are all extrapolated from the official streams, so they should only be legally watchable within Italy.
+This repository contains all the National Italian TV channels, Pluto tv and Rakuten TV in two m3u files to be used with any program that supports opening playlist files. The links are all extrapolated from the official streams, so they should only be legally watchable within Italy.
 
 
 |**lightiptv**          | **links**                                                        |
