@@ -14,4 +14,4 @@ Copy the .m3u url from above and paste it in an appropriate app that supports .m
 If you want to utilize the .m3u file go to this **[Link](https://github.com/MrSt3f/Light-Iptv/releases/tag/iptv)**
 
 > [!NOTE]
-> If you need any help open an Issues Tab [Here](https://github.com/MrSt3f/Light-Iptv/issues).
+> If you need any help open an Issues Tab **[Here](https://github.com/MrSt3f/Light-Iptv/issues)**.
